@@ -1,0 +1,17 @@
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\bin\Debug\net6.0\FornecProd.Data.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\bin\Debug\net6.0\FornecProd.Data.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\bin\Debug\net6.0\FornecProd.Data.pdb
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\bin\Debug\net6.0\FornecProd.Business.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\bin\Debug\net6.0\FornecProd.Business.pdb
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.csproj.CopyComplete
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\refint\FornecProd.Data.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.pdb
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\ref\FornecProd.Data.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\bin\Debug\net6.0\FornecProd.Data.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Data\obj\Debug\net6.0\FornecProd.Data.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\bin\Debug\net6.0\FornecProd.Business.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\bin\Debug\net6.0\FornecProd.Business.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\bin\Debug\net6.0\FornecProd.Business.pdb
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\refint\FornecProd.Business.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.pdb
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\ref\FornecProd.Business.dll
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\bin\Debug\net6.0\FornecProd.Business.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\FornecedorProduto\FornecProd.Business\obj\Debug\net6.0\FornecProd.Business.genruntimeconfig.cache

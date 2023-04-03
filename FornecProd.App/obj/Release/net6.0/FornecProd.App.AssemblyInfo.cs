@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-FornecProd.App-14add000-883e-4c21-8e93-28b12ed0a3eb")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FornecProd.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]

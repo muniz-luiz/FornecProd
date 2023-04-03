@@ -8,7 +8,7 @@ using FornecProd.Business.Models;
 
 namespace FornecProd.Data.Context
 {
-    internal class FornecProdContext : DbContext
+    public class FornecProdContext : DbContext
     {
         public FornecProdContext(DbContextOptions options) : base(options)
         {

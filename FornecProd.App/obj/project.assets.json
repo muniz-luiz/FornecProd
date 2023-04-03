@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {
+          "lib/netstandard2.0/_._": {
             "related": ".xml"
           }
         },
@@ -226,7 +226,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.14"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -950,6 +950,32 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "FornecProd.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FornecProd.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FornecProd.Business.dll": {}
+        }
+      },
+      "FornecProd.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FornecProd.Business": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.14",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/FornecProd.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FornecProd.Data.dll": {}
         }
       }
     }
@@ -2442,13 +2468,26 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "FornecProd.Business/1.0.0": {
+      "type": "project",
+      "path": "../FornecProd.Business/FornecProd.Business.csproj",
+      "msbuildProject": "../FornecProd.Business/FornecProd.Business.csproj"
+    },
+    "FornecProd.Data/1.0.0": {
+      "type": "project",
+      "path": "../FornecProd.Data/FornecProd.Data.csproj",
+      "msbuildProject": "../FornecProd.Data/FornecProd.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "FornecProd.Data >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.14",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.14",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.14",
+      "Microsoft.EntityFrameworkCore >= 6.0.14",
+      "Microsoft.EntityFrameworkCore.Design >= 6.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.14"
     ]
@@ -2479,7 +2518,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\EDUARDO\\Documents\\C# Programming\\FornecedorProduto\\FornecProd.Data\\FornecProd.Data.csproj": {
+              "projectPath": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\FornecedorProduto\\FornecProd.Data\\FornecProd.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -2504,11 +2547,23 @@
             "target": "Package",
             "version": "[6.0.14, )"
           },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.14, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[6.0.14, )"
           }
