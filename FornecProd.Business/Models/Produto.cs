@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FornecProd.Business.Models
 {
-    internal class Produto
+    public class Produto
     {
         public string Nome { get; set; }
         public string Descricao { get; set; }

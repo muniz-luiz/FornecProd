@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FornecProd.Business.Models
 {
-    internal enum TipoFornecedor
+    public enum TipoFornecedor
     {
         PessoaFisica = 1,
         PessoaJuridica = 2,
