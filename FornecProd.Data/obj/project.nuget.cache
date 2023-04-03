@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2DdAiRmInSutD7aKSZH8FGMiCRzXIJIiX+9Psx/x+IiDRA6p1IFIoeZ8odzYtzOJN8LZ7J/xf+a1WN8Al3hFg==",
+  "dgSpecHash": "lOB+AJ6umBOqGRpmKviAJMxvwXalvLsoF+XFY7KmK+iQ8hsS3oXNwASGL7wG9ICV8kbRZncZB9xrVvRpXGE+KA==",
   "success": true,
   "projectFilePath": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\FornecedorProduto\\FornecProd.Data\\FornecProd.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.4\\microsoft.entityframeworkcore.analyzers.7.0.4.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.4\\microsoft.entityframeworkcore.relational.7.0.4.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
